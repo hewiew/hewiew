@@ -9,12 +9,13 @@
 
 Welcome to my Github page! I am hewie and I am now a half researcher and half coder in the field of remote sensing intelligent interpretation and AI visualization!  
 
-<img align="right" alt="img" src="meta_world.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="logo.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Work onto: 
 - - Some researches about large foundation models for remote sensing images.
-- - A basic .
+- - Developing a basic code repository "RS_tech".
+- - Learning skills of dockers.
 
 #### :muscle: Focus on:
 
