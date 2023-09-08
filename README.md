@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am hewie and I am now a half researcher and half coder in the field of remote sensing intelligent interpretation and AI visualization!  
 
-<img align="right" alt="img" src="logo2.jpeg" width="50%" height="auto" />
+<img align="right" alt="img" src="meta_world.jpeg" width="50%" height="auto" />
 
 
 #### 🌱 Work onto: 
